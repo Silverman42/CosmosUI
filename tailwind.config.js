@@ -9,13 +9,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: colors.violet,
-        secondary: colors.yellow,
+        primary: colors.blue,
       },
       fontFamily: {
-        sans: ['Sofia Pro Regular', 'system-ui'],
+        sans: ['Inter UI Regular', 'system-ui'],
         serif: ['ui-serif', 'Georgia'],
-        mono: ['SF Mono Regular', 'SFMono-Regular'],
+        'sans-bold': ['Inter UI Bold', 'SFMono-Regular'],
       },
     },
   },

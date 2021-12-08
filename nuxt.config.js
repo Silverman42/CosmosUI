@@ -31,7 +31,7 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '@/assets/fonts/mono/style.css',
-    '@/assets/fonts/sofia_pro/style.css',
+    '@/assets/fonts/inter/style.css',
     '@/assets/css/animations.css',
   ],
 
