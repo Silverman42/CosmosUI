@@ -1,4 +1,5 @@
 .body {
+    background-color:rgba(1, 1, 1, 1);
     background-image: url('/bg.png');
     @apply min-h-screen relative bg-cover;
   }
