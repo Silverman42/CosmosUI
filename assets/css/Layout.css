@@ -44,7 +44,7 @@
   }
   
   .sidebar {
-    @apply fixed w-full top-0 left-0 h-screen overflow-y-auto bg-black;
+    @apply fixed w-full z-30 top-0 left-0 h-screen overflow-y-auto bg-black;
   }
   
   .menu-btn {
