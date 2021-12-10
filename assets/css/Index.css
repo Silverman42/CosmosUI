@@ -1,9 +1,12 @@
 .hero {
     @apply min-h-screen pt-32;
   }
-  
+  .hero-image {
+    @apply absolute top-10 -right-16 z-0;
+  }
   .hero-content {
-    @apply w-full text-center;
+    margin-top: 350px;
+    @apply w-full text-center relative z-10;
   }
   
   .hero-content > span {
@@ -25,7 +28,7 @@
       @apply text-7xl;
     }
     .hero-content {
-      @apply text-left w-6/12;
+      @apply text-left mt-0 w-6/12;
     }
   }
   

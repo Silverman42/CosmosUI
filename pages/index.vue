@@ -12,7 +12,9 @@
         services, an Interchain built for a decentralized future.
       </p>
     </div>
-    <div class="hero-image"></div>
+    <div class="hero-image">
+      <cosmos />
+    </div>
   </section>
 </template>
 
