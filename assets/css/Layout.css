@@ -1,6 +1,6 @@
 .body {
     background-color:rgba(1, 1, 1, 1);
-    background-image: url('/bg.png');
+    background-image: url('/bg-min.png');
     @apply min-h-screen relative bg-cover overflow-x-hidden;
   }
   .foreground {
